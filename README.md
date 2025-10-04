@@ -25,7 +25,7 @@ A simple **Minesweeper (Mayın Tarlası)** game built with **C#** to practice ob
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Zehra0zdemir/minesweeper-csharp.git
+   git clone https://github.com/Zehra0zdemir/Minesweeper.git
    ```
 2. Open the project in **Visual Studio**.
 3. Build and run the project.
